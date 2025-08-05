@@ -1,0 +1,1 @@
+git remote add -t lesson-3-start <name> <URL>
